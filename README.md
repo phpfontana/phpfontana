@@ -6,6 +6,11 @@
 
 - TensorFlow on Apple Silicon: https://github.com/phpfontana/tensorflow-apple-silicon 
 
+### ML Models
+- Keras Models
+- Pytorch Models
+- SckitLearn
+
 ### Learn Computer Vision 🤖
 - Custom Object Detection:
 

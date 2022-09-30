@@ -1,5 +1,4 @@
 ### Hi there 👋
-First year BSc CS student 
 
 
 ### Learn how to setup your Apple Silicon Device for ML 
@@ -7,6 +6,10 @@ First year BSc CS student
 - PyTorch on Apple Silicon: https://github.com/phpfontana/pytorch-apple-silicon 
 
 - TensorFlow on Apple Silicon: https://github.com/phpfontana/tensorflow-apple-silicon 
+
+### Learn Computer Vision
+- Custom Object Detection:
+- Semantic Segmrntaion
 
 ### A few good to know references 📚
 - Deep Learning (Ian J. Goodfellow, Yoshua Bengio and Aaron Courville), MIT Press, 2016.

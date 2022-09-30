@@ -10,7 +10,7 @@
 ### Learn Computer Vision
 Custom Object Detection:
 
-Semantic Segmentaion using U-Net:
+Semantic Segmentaion:
 
 Face Recognition:
 

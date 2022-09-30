@@ -7,16 +7,12 @@
 
 - TensorFlow on Apple Silicon: https://github.com/phpfontana/tensorflow-apple-silicon 
 
-### Some Data Science Applications
-- Churn Prediction
-- Customer Segmentation
-- Sales Forecast
-- Fraud Detection
-
 ### Learn Computer Vision
-- Custom Object Detection w/ YOLOv7:
-- Semantic Segmentaion using U-Net:
-- Face Recognition:
+Custom Object Detection:
+
+Semantic Segmentaion using U-Net:
+
+Face Recognition:
 
 ### Some good to know references 📚
 T. Hastie, R. Tibshirani & J. Friedman. The Elements of Statistical Learning: Data Mining, Inference, and Prediction. Springer, 2009.

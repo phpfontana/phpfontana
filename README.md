@@ -2,7 +2,7 @@
 First year BSc CS student 
 
 
-### Learn how to setup your Apple Silicon Device for ML 👇
+### Learn how to setup your Apple Silicon Device for ML 
 
 - PyTorch on Apple Silicon: https://github.com/phpfontana/pytorch-apple-silicon 
 

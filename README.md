@@ -19,7 +19,14 @@
 - Face Recognition:
 
 ### Some good to know references 📚
-- Ian J. Goodfellow, Yoshua Bengio and Aaron Courville. Deep Learning. MIT Press, 2016.
-- Géron, A. Hands-on machine learning with Scikit-Learn, Keras and TensorFlow: concepts, tools, and techniques to build intelligent systems (2nd ed.). O'Reilly.
-- James, G.; Witten, D.; Hastie, T. & Tibshirani, R. (2013), An Introduction to Statistical Learning: with Applications in R , Springer.
-- Bishop, Christopher M. Pattern Recognition and Machine Learning. New York :Springer, 2006.
+T. Hastie, R. Tibshirani & J. Friedman. The Elements of Statistical Learning: Data Mining, Inference, and Prediction. Springer, 2009.
+
+I. Goodfellow, Y. Bengio, & A. Courville. Deep Learning. MIT Press, 2016.
+
+C.M. Bishop. Pattern Recognition & Machine Learning. Springer, 2006. 
+
+P. Brockwell & R. Davis. Introduction to Time Series and Forecasting. Springer, 2016.
+
+D. MacKay. Information Theory, Inference and Learning Algorithms. Cambridge Press, 2003.
+
+M. Deisenroth, A. Faisal & C. Ong. Matematics for Machine Learning. Cambridge Press, 2020.

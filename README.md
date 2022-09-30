@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-### Learn how to setup your Apple Silicon Device for ML 
+### Learn how to setup your Apple Silicon Device for ML 🚀
 
 - PyTorch on Apple Silicon: https://github.com/phpfontana/pytorch-apple-silicon 
 
 - TensorFlow on Apple Silicon: https://github.com/phpfontana/tensorflow-apple-silicon 
 
-### Learn Computer Vision
+### Learn Computer Vision 🤖
 - Custom Object Detection:
 
 - Semantic Segmentaion:

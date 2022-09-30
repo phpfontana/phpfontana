@@ -14,8 +14,8 @@
 - Fraud Detection
 
 ### Learn Computer Vision
-- Custom Object Detection:
-- Semantic Segmentaion:
+- Custom Object Detection w/ YOLOv7:
+- Semantic Segmentaion using U-Net:
 - Face Recognition:
 
 ### Some good to know references 📚

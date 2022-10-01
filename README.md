@@ -2,9 +2,9 @@
 
 ### Learn how to setup your Apple Silicon Device for ML 🚀
 
-- PyTorch on Apple Silicon: https://github.com/phpfontana/pytorch-apple-silicon 
+- [PyTorch on Apple Silicon](https://github.com/phpfontana/pytorch-apple-silicon) 
 
-- TensorFlow on Apple Silicon: https://github.com/phpfontana/tensorflow-apple-silicon 
+- [TensorFlow on Apple Silicon](https://github.com/phpfontana/tensorflow-apple-silicon) 
 
 ### ML Models
 - Keras Models

@@ -1,15 +1,23 @@
 ### Hi there 👋
+```
+Skills = {
+       Deep Learning: [PyTorch, TensorFlow]
+       Data Science: [Scikit-Learn, Pandas, Seaborn, Matplotlib],
+       Languages: [Python, C]
+}  
 
+Interests = [Machine Learning, Deep Learning, Ai, Data Science]
+```
 ### Learn how to setup your Apple Silicon Device for ML 🚀
 
 - [PyTorch on Apple Silicon](https://github.com/phpfontana/pytorch-apple-silicon) 
 
 - [TensorFlow on Apple Silicon](https://github.com/phpfontana/tensorflow-apple-silicon) 
 
-### ML Models
-- Keras Models
-- Pytorch Models
-- SckitLearn
+### Machine Learning Applications
+- Deep Learning Models w/ TensorFlow
+- Deep Learning Models w/ Pytorch
+- Machine Learning Models
 
 ### Learn Computer Vision 🤖
 - [Custom Object Detection](https://github.com/phpfontana/custom-object-detection)

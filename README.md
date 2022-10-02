@@ -12,11 +12,11 @@
 - SckitLearn
 
 ### Learn Computer Vision 🤖
-- Custom Object Detection:
+- [Custom Object Detection](https://github.com/phpfontana/custom-object-detection)
 
-- Semantic Segmentaion:
+- Semantic Segmentaion
 
-- Face Recognition:
+- Face Recognition
 
 ### Some References 📚
 T. Hastie, R. Tibshirani & J. Friedman. The Elements of Statistical Learning: Data Mining, Inference, and Prediction. Springer, 2009.

@@ -20,11 +20,16 @@ Interests = [Machine Learning, Deep Learning, Ai, Data Science]
 - Machine Learning Models
 
 ### Learn Computer Vision 🤖
-- [Custom Object Detection](https://github.com/phpfontana/custom-object-detection)
+- [Custom Object Detection w/ YOLOv7](https://github.com/phpfontana/custom-object-detection)
 
 - Semantic Segmentaion
 
+- Neural Style Transfer
+
 - Face Recognition
+
+### Diffusion Models 🎆
+- Text-2-Image Generation w/ Stable Diffusion 
 
 ### Some References 📚
 T. Hastie, R. Tibshirani & J. Friedman. The Elements of Statistical Learning: Data Mining, Inference, and Prediction. Springer, 2009.

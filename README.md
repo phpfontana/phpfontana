@@ -1,11 +1,6 @@
 ### Hi there 👋
 ```
-Skills = {
-       Deep Learning: [PyTorch, TensorFlow]
-       Data Science: [Scikit-Learn, Pandas, Seaborn, Matplotlib],
-       Languages: [Python, C]
-}  
-
+Languages = [Python, C]
 Interests = [Machine Learning, Deep Learning, Ai, Data Science]
 ```
 ### Learn how to setup your Apple Silicon Device for ML 🚀

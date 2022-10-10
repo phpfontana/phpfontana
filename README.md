@@ -17,9 +17,7 @@ Interests = [Machine Learning, Deep Learning, Ai, Data Science]
 - Default Prediction
 
 ### ML Paper Implementations 🤖
-- [Deep Learning Models w/ TensorFlow](https://github.com/phpfontana/tensorflow-models)
-- Deep Learning Models w/ Pytorch
-- Machine Learning Models
+- [CNN Models w/ TensorFlow](https://github.com/phpfontana/tensorflow-models)
 
 ### Learn Computer Vision 👁‍
 - [Custom Object Detection w/ YOLOv7](https://github.com/phpfontana/custom-object-detection)

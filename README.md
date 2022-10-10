@@ -13,6 +13,8 @@ Interests = [Machine Learning, Deep Learning, Ai, Data Science]
 - Churn Prediction
 - Custormer Segmentation
 - Sales Forecast
+- Fraud Detection
+- Default Prediction
 
 ### ML Paper Implementations 🤖
 - [Deep Learning Models w/ TensorFlow](https://github.com/phpfontana/tensorflow-models)

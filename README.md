@@ -9,7 +9,7 @@ Interests = [Machine Learning, Deep Learning, Ai, Data Science]
 
 - [TensorFlow on Apple Silicon](https://github.com/phpfontana/tensorflow-apple-silicon) 
 
-### Learn Data Science
+### Learn Data Science 🔍
 -  
 
 ### ML Paper Implementations 🤖

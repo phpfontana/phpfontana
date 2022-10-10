@@ -10,8 +10,9 @@ Interests = [Machine Learning, Deep Learning, Ai, Data Science]
 - [TensorFlow on Apple Silicon](https://github.com/phpfontana/tensorflow-apple-silicon) 
 
 ### Learn Data Science 🔍
--  Churn Prediction
-- 
+- Churn Prediction
+- Custormer Segmentation
+- Sales Forecast
 
 ### ML Paper Implementations 🤖
 - [Deep Learning Models w/ TensorFlow](https://github.com/phpfontana/tensorflow-models)

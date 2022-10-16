@@ -11,24 +11,12 @@ Interests = [Machine Learning, Deep Learning, Ai, Data Science]
 
 ### Learn Data Science 🔍
 - Churn Prediction
-- Custormer Segmentation
-- Sales Forecast
-- Fraud Detection
-- Default Prediction
 
 ### ML Paper Implementations 🤖
 - [Deep Learning Models w/ TensorFlow](https://github.com/phpfontana/tensorflow-models)
-- Deep Learning Models w/ PyTorch
 
 ### Learn Computer Vision 👁‍
 - [Custom Object Detection w/ YOLOv7](https://github.com/phpfontana/custom-object-detection)
-
-- Semantic Segmentaion w/ Detectron2
-
-- Face Recognition
-
-### Diffusion Models 🎆
-- Text-2-Image Generation w/ Stable Diffusion 
 
 ### Some References 📚
 T. Hastie, R. Tibshirani & J. Friedman. The Elements of Statistical Learning: Data Mining, Inference, and Prediction. Springer, 2009.

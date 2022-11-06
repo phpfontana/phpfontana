@@ -10,29 +10,13 @@ Interests = [Machine Learning, Deep Learning, Ai, Data Science]
 - [TensorFlow on Apple Silicon](https://github.com/phpfontana/tensorflow-apple-silicon) 
 
 ### Machine Learning Implementations from Scratch w/ PyTorch 🤖
-- Regression Algorithms (Linear Regression, Polynomial Regression)
-- Classification Algorithms (Logistic Regression, Regularized Logistic Regression)
-- Dimensionality Reduction (PCA, T-SNE)
-- Tree-Based Methods (Decision Trees, Random Forest)
-- Clustering (K-Means)
 
 ### Applied Machine Learning
-- Binary Classification
-- Multi-class classification
-- Regression
-- Time Series
-- Clustering
 
 ### Deep Learning Implementations from Scratch w/ PyTorch 👁️ 🗣️
-- Multilayer Perceptron
-- CNNs (LeNet-5, AlexNet, ResNet)
-- Sequence Models 
 
 ### Applied Deep Learning
 - [Custom Object Detection w/ YOLOv7](https://github.com/phpfontana/custom-object-detection)
-- Image Classification
-- Semantic Segmentation
-- Neural Style Transfer
 
 ### Some References 📚
 T. Hastie, R. Tibshirani & J. Friedman. The Elements of Statistical Learning: Data Mining, Inference, and Prediction. Springer, 2009.

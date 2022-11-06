@@ -10,12 +10,14 @@ Interests = [Machine Learning, Deep Learning, Ai, Data Science]
 - [TensorFlow on Apple Silicon](https://github.com/phpfontana/tensorflow-apple-silicon) 
 
 ### Machine Learning 🤖
-- Machine Learning w/ PyTorch
+- [Machine Learning w/ PyTorch](https://github.com/phpfontana/machine-learning-pytorch)
 
 
 ### Deep Learning 👁️
 - Deep Learning w/ PyTorch
 - [Custom Object Detection w/ YOLOv7](https://github.com/phpfontana/custom-object-detection)
+- Semantic Segmentation
+- Neural Style Transfer
 
 ### Some References 📚
 T. Hastie, R. Tibshirani & J. Friedman. The Elements of Statistical Learning: Data Mining, Inference, and Prediction. Springer, 2009.

@@ -9,13 +9,12 @@ Interests = [Machine Learning, Deep Learning, Ai, Data Science]
 
 - [TensorFlow on Apple Silicon](https://github.com/phpfontana/tensorflow-apple-silicon) 
 
-### Machine Learning Implementations from Scratch w/ PyTorch 🤖
+### Machine Learning 🤖
+- Machine Learning w/ PyTorch
 
-### Applied Machine Learning
 
-### Deep Learning Implementations from Scratch w/ PyTorch 👁️ 🗣️
-
-### Applied Deep Learning
+### Deep Learning 👁️
+- Deep Learning w/ PyTorch
 - [Custom Object Detection w/ YOLOv7](https://github.com/phpfontana/custom-object-detection)
 
 ### Some References 📚

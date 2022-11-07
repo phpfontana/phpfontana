@@ -11,6 +11,7 @@ Interests = [Machine Learning, Deep Learning, Data Science]
 ### ML Tutorials 🔥
 - [Machine Learning](https://github.com/phpfontana/machine-learning-pytorch)
 - [Deep Learning w/ PyTorch](https://github.com/phpfontana/deep-learning-pytorch)
+- Applied Data Science
 
 ### Computer Vision 👁️
 - Object Detection

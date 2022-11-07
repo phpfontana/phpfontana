@@ -1,7 +1,7 @@
 ### Hi there 👋
 ```
 Languages = [Python, C, C++]
-Interests = [Machine Learning, Deep Learning, Ai, Data Science]
+Interests = [Machine Learning, Deep Learning, Data Science]
 ```
 
 ### Setup your Apple Silicon Device for ML 🚀

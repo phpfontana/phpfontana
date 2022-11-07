@@ -1,6 +1,6 @@
 ### Hi there 👋
 ```
-Languages = [Python, C]
+Languages = [Python, C, C++]
 Interests = [Machine Learning, Deep Learning, Ai, Data Science]
 ```
 

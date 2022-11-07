@@ -8,8 +8,8 @@ Interests = [Machine Learning, Deep Learning, Data Science]
 - [PyTorch on Apple Silicon](https://github.com/phpfontana/pytorch-apple-silicon) 
 - [TensorFlow on Apple Silicon](https://github.com/phpfontana/tensorflow-apple-silicon) 
 
-### PyTorch Tutorials 🔥
-- [Machine Learning w/ PyTorch](https://github.com/phpfontana/machine-learning-pytorch)
+### ML Tutorials 🔥
+- [Machine Learning](https://github.com/phpfontana/machine-learning-pytorch)
 - [Deep Learning w/ PyTorch](https://github.com/phpfontana/deep-learning-pytorch)
 
 ### Computer Vision 👁️

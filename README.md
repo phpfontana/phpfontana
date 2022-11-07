@@ -14,7 +14,7 @@ Interests = [Machine Learning, Deep Learning, Ai, Data Science]
 
 
 ### Deep Learning 👁️
-- Deep Learning w/ PyTorch
+- [Deep Learning w/ PyTorch](https://github.com/phpfontana/deep-learning-pytorch)
 - [Custom Object Detection w/ YOLOv7](https://github.com/phpfontana/custom-object-detection)
 - Semantic Segmentation
 - Neural Style Transfer

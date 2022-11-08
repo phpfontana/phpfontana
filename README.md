@@ -20,7 +20,8 @@ Interests = [Machine Learning, Deep Learning, Data Science]
 
 ### Projects ⚙️
 - [Custom Object Detection w/ YOLOv7](https://github.com/phpfontana/custom-object-detection)
-
+- OpenAi Whispe
+- Stable Diffusion
 
 ### Some References 📚
 T. Hastie, R. Tibshirani & J. Friedman. The Elements of Statistical Learning: Data Mining, Inference, and Prediction. Springer, 2009.

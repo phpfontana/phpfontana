@@ -20,7 +20,7 @@ Interests = [Machine Learning, Deep Learning, Data Science]
 
 ### Projects ⚙️
 - [Custom Object Detection w/ YOLOv7](https://github.com/phpfontana/custom-object-detection)
-- OpenAi Whispe
+- OpenAi Whisper
 - Stable Diffusion
 
 ### Some References 📚

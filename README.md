@@ -9,7 +9,7 @@ Interests = [Machine Learning, Deep Learning, Data Science]
 - [Setting up TensorFlow on Apple Silicon](https://github.com/phpfontana/tensorflow-apple-silicon) 
 - Learn to use Git
 
-### ML Tutorials 🤖
+### Machine Learning Tutorials 🤖
 - [Machine Learning](https://github.com/phpfontana/machine-learning-pytorch)
 - [Deep Learning w/ PyTorch](https://github.com/phpfontana/deep-learning-pytorch)
 
@@ -23,6 +23,8 @@ Interests = [Machine Learning, Deep Learning, Data Science]
 - [Custom Object Detection w/ YOLOv7](https://github.com/phpfontana/custom-object-detection)
 - OpenAi Whisper
 - Stable Diffusion
+
+### Algorithms
 
 ### Some References 📚
 T. Hastie, R. Tibshirani & J. Friedman. The Elements of Statistical Learning: Data Mining, Inference, and Prediction. Springer, 2009.

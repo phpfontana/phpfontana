@@ -7,7 +7,7 @@ Interests = [Machine Learning, Deep Learning, Data Science]
 ### Tutorials 🚀
 - [Setting up PyTorch on Apple Silicon](https://github.com/phpfontana/pytorch-apple-silicon) 
 - [Setting up TensorFlow on Apple Silicon](https://github.com/phpfontana/tensorflow-apple-silicon) 
-- Git
+- Learn to use Git
 
 ### ML Tutorials 🤖
 - [Machine Learning](https://github.com/phpfontana/machine-learning-pytorch)

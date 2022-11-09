@@ -4,9 +4,10 @@ Languages = [Python, C, C++]
 Interests = [Machine Learning, Deep Learning, Data Science]
 ```
 
-### Setup your Apple Silicon Device for ML 🚀
-- [PyTorch on Apple Silicon](https://github.com/phpfontana/pytorch-apple-silicon) 
-- [TensorFlow on Apple Silicon](https://github.com/phpfontana/tensorflow-apple-silicon) 
+### Tutorials 🚀
+- [Setting up PyTorch on Apple Silicon](https://github.com/phpfontana/pytorch-apple-silicon) 
+- [Setting up TensorFlow on Apple Silicon](https://github.com/phpfontana/tensorflow-apple-silicon) 
+- Git
 
 ### ML Tutorials 🤖
 - [Machine Learning](https://github.com/phpfontana/machine-learning-pytorch)

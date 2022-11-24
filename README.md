@@ -24,7 +24,8 @@ Interests = [Machine Learning, Deep Learning, Data Science]
 - OpenAi Whisper
 - Stable Diffusion
 
-### Algorithms
+### C/C++
+- Algorithms & Programming Logic
 
 ### Some References 📚
 T. Hastie, R. Tibshirani & J. Friedman. The Elements of Statistical Learning: Data Mining, Inference, and Prediction. Springer, 2009.

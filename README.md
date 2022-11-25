@@ -25,7 +25,7 @@ Interests = [Machine Learning, Deep Learning, Data Science]
 - Stable Diffusion
 
 ### C/C++
-- Algorithms & Programming Logic
+- [Algorithms & Programming Logic](https://github.com/phpfontana/algorithms)
 
 ### Some References 📚
 T. Hastie, R. Tibshirani & J. Friedman. The Elements of Statistical Learning: Data Mining, Inference, and Prediction. Springer, 2009.

@@ -1,5 +1,5 @@
 ### Hi there 👋
-```
+```C
 Languages = [Python, C, C++]
 Interests = [Machine Learning, Deep Learning, Data Science]
 ```

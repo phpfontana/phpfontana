@@ -29,14 +29,3 @@ Interests = [Machine Learning, Deep Learning, Data Science]
 
 ### Robotics 🤖
 - Arduino
-
-### Some References 📚
-T. Hastie, R. Tibshirani & J. Friedman. The Elements of Statistical Learning: Data Mining, Inference, and Prediction. Springer, 2009.
-
-I. Goodfellow, Y. Bengio, & A. Courville. Deep Learning. MIT Press, 2016.
-
-C.M. Bishop. Pattern Recognition & Machine Learning. Springer, 2006. 
-
-D. MacKay. Information Theory, Inference and Learning Algorithms. Cambridge Press, 2003.
-
-M. Deisenroth, A. Faisal & C. Ong. Matematics for Machine Learning. Cambridge Press, 2020.

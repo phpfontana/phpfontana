@@ -16,7 +16,6 @@ Interests = [Machine Learning, Deep Learning, Robotics]
 - Natural Language Processing 
 - Generative Adversarial Networks 
 - Computer Vision
-- [Custom Object Detection w/ YOLOv7](https://github.com/phpfontana/custom-object-detection)
 
 ### Programming 👾
 - [Algorithms & Programming Logic](https://github.com/phpfontana/algorithms)

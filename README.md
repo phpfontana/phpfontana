@@ -9,9 +9,10 @@ Interests = [Machine Learning, Deep Learning, Data Science]
 - [Setting up TensorFlow on Apple Silicon](https://github.com/phpfontana/tensorflow-apple-silicon) 
 - [Learn to use Git](https://github.com/phpfontana/git-version-control)
 
-### Machine Learning Tutorials 🤖
+### Machine Learning / Deep Learning 🤖
+- PyTorch Tutorials
 - [Machine Learning](https://github.com/phpfontana/machine-learning-pytorch)
-- [Deep Learning w/ PyTorch](https://github.com/phpfontana/deep-learning-pytorch)
+- [Deep Learning](https://github.com/phpfontana/deep-learning-pytorch)
 
 ### Computer Vision 👁️
 - Object Detection

@@ -10,13 +10,17 @@ Interests = [Machine Learning, Deep Learning, Robotics]
 - [Learn to use Git](https://github.com/phpfontana/git-version-control)
 
 ### Machine Learning / Deep Learning 👁 
-- PyTorch Tutorials
+- PyTorch Tutorials 
 - [Machine Learning w/ PyTorch](https://github.com/phpfontana/machine-learning-pytorch)
 - [Deep Learning w/ PyTorch](https://github.com/phpfontana/deep-learning-pytorch)
+- Natural Language Processing 
+- Generative Adversarial Networks 
+- Computer Vision
 - [Custom Object Detection w/ YOLOv7](https://github.com/phpfontana/custom-object-detection)
 
-### C/C++ 💾
+### Programming 👾
 - [Algorithms & Programming Logic](https://github.com/phpfontana/algorithms)
+- Data Structures
 
 ### Robotics 🤖
 - [Arduino Tutorials](https://github.com/phpfontana/arduino-tutorials)

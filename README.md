@@ -1,7 +1,7 @@
 ### Hi there 👋
 ```C
 Languages = [Python, C, C++]
-Interests = [Machine Learning, Deep Learning, Data Science]
+Interests = [Machine Learning, Deep Learning, Robotics]
 ```
 
 ### Tutorials 🚀
@@ -11,22 +11,13 @@ Interests = [Machine Learning, Deep Learning, Data Science]
 
 ### Machine Learning / Deep Learning 🤖
 - PyTorch Tutorials
-- [Machine Learning](https://github.com/phpfontana/machine-learning-pytorch)
-- [Deep Learning](https://github.com/phpfontana/deep-learning-pytorch)
-
-### Computer Vision 👁️
-- Object Detection
-- Landmark Detection
-- Semantic Segmentation
-- Neural Style Transfer
-
-### Projects ⚙️
+- [Machine Learning w/ PyTorch](https://github.com/phpfontana/machine-learning-pytorch)
+- [Deep Learning w/ PyTorch](https://github.com/phpfontana/deep-learning-pytorch)
 - [Custom Object Detection w/ YOLOv7](https://github.com/phpfontana/custom-object-detection)
-- OpenAi Whisper
-- Stable Diffusion
 
 ### C/C++
 - [Algorithms & Programming Logic](https://github.com/phpfontana/algorithms)
 
 ### Robotics 🤖
 - [Arduino Tutorials](https://github.com/phpfontana/arduino-tutorials)
+- Raspberry Pi Pico Tutorials

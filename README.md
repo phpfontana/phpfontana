@@ -28,4 +28,4 @@ Interests = [Machine Learning, Deep Learning, Data Science]
 - [Algorithms & Programming Logic](https://github.com/phpfontana/algorithms)
 
 ### Robotics 🤖
-- [Arduino](https://github.com/phpfontana/arduino-tutorials)
+- [Arduino Tutorials](https://github.com/phpfontana/arduino-tutorials)

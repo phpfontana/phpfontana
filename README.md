@@ -10,6 +10,7 @@ Interests = [Machine Learning, Deep Learning, Robotics]
 - [Learn to use Git](https://github.com/phpfontana/git-version-control)
 
 ### Machine Learning / Deep Learning 👁 
+- PyTorch Tutorials
 - [Machine Learning](https://github.com/phpfontana/machine-learning-pytorch)
 - [Deep Learning w/ PyTorch](https://github.com/phpfontana/deep-learning-pytorch)
 - Natural Language Processing 

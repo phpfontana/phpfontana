@@ -11,7 +11,7 @@ Interests = [Machine Learning, Deep Learning, Robotics]
 
 ### Machine Learning / Deep Learning 👁 
 - PyTorch Tutorials 
-- [Machine Learning w/ PyTorch](https://github.com/phpfontana/machine-learning-pytorch)
+- [Machine Learning](https://github.com/phpfontana/machine-learning-pytorch)
 - [Deep Learning w/ PyTorch](https://github.com/phpfontana/deep-learning-pytorch)
 - Natural Language Processing 
 - Generative Adversarial Networks 

@@ -17,6 +17,9 @@ Interests = [Machine Learning, Deep Learning, Robotics]
 - Generative Adversarial Networks 
 - Computer Vision
 
+## Data Science
+- Applied Data Science
+
 ### Programming 👾
 - [Algorithms & Programming Logic](https://github.com/phpfontana/algorithms)
 - Data Structures

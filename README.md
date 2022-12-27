@@ -18,7 +18,7 @@ Interests = [Machine Learning, Deep Learning, Robotics]
 - Computer Vision
 
 ### Data Science
-- Applied Data Science
+- [Applied Data Science](https://github.com/phpfontana/applied-data-science)
 
 ### Programming 👾
 - [Algorithms & Programming Logic](https://github.com/phpfontana/algorithms)

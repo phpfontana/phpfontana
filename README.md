@@ -17,7 +17,7 @@ Interests = [Machine Learning, Deep Learning, Robotics]
 - Generative Adversarial Networks 
 - Computer Vision
 
-## Data Science
+### Data Science
 - Applied Data Science
 
 ### Programming 👾
